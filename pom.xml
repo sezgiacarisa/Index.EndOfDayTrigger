@@ -44,7 +44,7 @@
 		<dependency>
 			<groupId>tr.com.turib.index</groupId>
 			<artifactId>Index.Calculate</artifactId>
-			<version>[1.23-SNAPSHOT,)</version>
+			<version>[1.27-SNAPSHOT,)</version>
 		</dependency>
 	</dependencies>
 
